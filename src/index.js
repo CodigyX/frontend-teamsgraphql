@@ -15,7 +15,7 @@ import {
 
 // 2
 const httpLink = createHttpLink({
-  uri: 'https://codigy-codigyx.cloud.okteto.net/graphql/'
+  uri: 'https://codigyx-codigyx.cloud.okteto.net/graphql/'
 });
 
 // 3
